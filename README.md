@@ -6,7 +6,7 @@
   I'm a **designer and software developer** focused in the development of **sites**, **web designs** and generalist development.
 </div>
 
-### Programming languages I work on >>>
+### Programming languages & Techs I work on >>>
   
 <div align="left">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
