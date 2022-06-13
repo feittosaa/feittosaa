@@ -25,4 +25,6 @@
   <a href = "mailto:lucas.feitosa2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/4pV6q5N/love-is-the-glitch-glitch.gif" alt="love-is-the-glitch-glitch" border="0"></a>
+
 
