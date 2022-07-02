@@ -1,7 +1,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feittosaa&langs_count=12&layout=compact&theme=midnight-purple" align="right">
 
-  ## Hey there, I'm feittosaa ;) 🍒
+  ## Hey there, I'm feittosaa ;) 🌊
   
   I'm a **designer and software developer** focused in the development of **sites**, **web designs** and generalist development.
 </div>
