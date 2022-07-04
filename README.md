@@ -3,10 +3,13 @@
 
   ## Hey there, I'm feittosaa ;) 🌊
   
-  I'm a **designer and software developer** focused in the development of **sites**, **web designs** and generalist development.
+  #### I'm a **designer and software developer** 
+  
+  I love to draw since I was 6, I started work with design in 2018, doing my arts and brand designs online, and teaching draw in classes.
+  In 2021 I started to study software development and programming online, doing classes and courses, and there we are.
 </div>
 
-### Programming languages & Techs I work on >>>
+### Programming languages & Techs that I work with >>>
   
 <div align="left">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
