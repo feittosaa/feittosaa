@@ -1,5 +1,4 @@
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feittosaa&langs_count=12&layout=compact&theme=midnight-purple" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feittosaa&langs_count=12&layout=compact&theme=midnight-purple" width="380" align="right">
 
   ## Hey there, I'm feittosaa ;) 🌊
   
@@ -29,5 +28,3 @@
   <a href="https://instagram.com/feittosaa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucas.feitosa2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-
