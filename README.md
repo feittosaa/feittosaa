@@ -5,7 +5,7 @@
   #### I'm a **designer and software developer** 
   
   I love to draw since I was 6, I started work with design in 2018, doing my arts and brand designs online, and teaching draw in classes.
-  In 2021 I started to study software development and programming online, doing classes and courses, and there we are.
+  In 2021 I started to study software development and programming online, doing classes and courses, this year I did a six months residence in IT, and I start my college in August
 </div>
 
 ### Programming languages & Techs that I work with >>>
