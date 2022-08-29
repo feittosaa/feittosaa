@@ -8,7 +8,7 @@
   In 2021 I started to study software development and programming online, doing classes and courses, this year I did a six months residence in IT, and I start my college in August
 </div>
 
-### Programming languages & Techs that I work with >>>
+### Techs & Tools >>>
   
 <div align="left">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
