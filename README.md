@@ -1,14 +1,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feittosaa&langs_count=12&layout=compact&theme=midnight-purple" width="350" align="right">
 
-  ## Hey there, I'm Lucas ;) 🌊
+  ## Hello, name is Lucas
   
-  #### I'm a **designer and software developer** 
+  #### I'm a **Designer and Software Developer** 
   
-  I love to draw since I was 6, I started work with design in 2018, doing my arts and brand designs online, and teaching draw in classes.
+  I'm graduating in Information and Communication Technology at Faeterj, working as a designer since 2018 and software developer since 2022, specializations in Web Front-end and UI/UX, I use React and Javascript as main technologies, I have additional knowledge in fullstack development, like Java and Python for making API's.
   <br/>
-  In 2021 I started to study software development and programming online, doing classes and courses, in 2022 I did a six months residence in IT, and I started my college.
+My main education is from Senai - Serratec (Fullstack software development) and Alura (Front-end development).
   <br/>
-  Today I'm working at <a href="https://www.orange-business.com" target="_blank">Orange Business<a/> in the Data Analytics team.
+I am currently an intern at Orange Business on the Business Performance & Data Analytics team, using as main tool Power BI and developing the team's web applications and websites.
 </div>
 
 ### Techs & Tools >>>
