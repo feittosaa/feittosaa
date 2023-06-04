@@ -8,7 +8,7 @@
   <br/>
 My main education is from Senai - Serratec (Fullstack software development) and Alura (Front-end development).
   <br/>
-I am currently an intern at Orange Business on the Business Performance & Data Analytics team, using as main tool Power BI and developing the team's web applications and websites.
+I am currently an intern at Orange Business on the Business Performance & Data Analytics team, being responsible for developing the team's web applications and websites.
 </div>
 
 ### Techs & Tools >>>
