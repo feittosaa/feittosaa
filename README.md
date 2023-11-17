@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feittosaa&langs_count=12&layout=compact&theme=midnight-purple" width="350" align="right">
 
-  ## Hello, name is Lucas
+  ## Hello, name is Lucas Feitosa
   
   #### I'm a **Designer and Software Developer** 
   
