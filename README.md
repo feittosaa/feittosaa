@@ -28,7 +28,7 @@
 
 ##
 
-<img align="center" width="100%" src="https://i.imgur.com/XnThy4O.gif">
+<img align="center" width="100%" src="https://i.imgur.com/OpqLOzN.gif">
 
 ##
 
