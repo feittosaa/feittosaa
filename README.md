@@ -2,11 +2,11 @@
   
   #### I'm a **Designer and Software Developer** 
   
-  I'm graduating in Information and Communication Technology at FAETERJ - Petrópolis, working as a designer since 2018 and software developer since 2022, specializations in Web Front-end and UI/UX.
+  I am currently working as Data Engineer at Orange Business, developing web applications, creating dashboards and architecting data.
+  <br/>
+  I'm graduating in Information and Communication Technology at FAETERJ - Petrópolis.
   <br/>
   I primarily work with React and JavaScript for front-end development, while leveraging Python for APIs, scripting, and data cleaning. Additionally, I utilize Power BI, Microsoft Visual Studio and Analysis Services for data analysis and visualization.
-  <br/>
-  I am currently working as Data Engineer at Orange Business, developing web applications, creating dashboards and processing data.
 </div>
 
 ### Techs & Tools
