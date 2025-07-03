@@ -1,4 +1,4 @@
-## Hello, my name is Lucas Feitosa
+## Hello, my name is Lucas
   
   #### I'm a **Designer and Software Developer** 
   
