@@ -24,12 +24,7 @@
 
 ##
 
-<img align="center" width="100%" src="https://i.imgur.com/OpqLOzN.gif">
-
-##
-
 <div align="center">
   <a href="https://www.linkedin.com/in/feittosaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href = "mailto:lucas.feitosa@orange.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-    <a href = "mailto:lucas.feitosa2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
+  <a href = "mailto:lucas.feitosa2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
