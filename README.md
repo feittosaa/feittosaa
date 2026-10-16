@@ -116,28 +116,6 @@ automation, and practical everyday tools**.
       <sub>JavaScript · React Native</sub>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/feittosaa/quick-backup-script">↻ Quick Backup</a>
-      </h3>
-      <p>
-        A lightweight Python script for making backups of files
-        and directories without unnecessary friction.
-      </p>
-      <sub>Python · Scripting · Automation</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/feittosaa/dotfiles">⌘ Dotfiles</a>
-      </h3>
-      <p>
-        My personal Linux environment and development configuration,
-        versioned and organized to keep my setup reproducible.
-      </p>
-      <sub>Hyprland · GNU Stow · Git · Shell</sub>
-    </td>
-  </tr>
 </table>
 
 ## `$ cat tech-stack.txt`
