@@ -91,19 +91,20 @@ automation, and practical everyday tools**.
         its fundamentals, while practicing software development
         workflows and CI/CD.
       </p>
-      <sub>JavaScript · AI fundamentals · CI/CD</sub>
+      <sub>TypeScript · AI fundamentals · CI/CD</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/feittosaa/SGS_project">▣ SGS</a>
+        <a href="https://github.com/feittosaa/grimoire">▣ Grimoire</a>
       </h3>
       <p>
-        A salon management system with an API for handling clients,
-        services, and staff. Built as a university project.
+        An open-source, modular Virtual Tabletop (VTT) for tabletop RPGs,
+        featuring customizable game systems, house rules, Obsidian integration,
+        and multiplayer support through Discord or local networks.
       </p>
-      <sub>Python · FastAPI · REST APIs</sub>
+      <sub>Virtual Tabletop · RPG · Open Source · Modular</sub>
     </td>
     <td width="50%" valign="top">
       <h3>
