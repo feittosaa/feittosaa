@@ -108,13 +108,13 @@ automation, and practical everyday tools**.
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/feittosaa/uncle-scrooge">◈ Uncle Scrooge</a>
+        <a href="https://github.com/feittosaa/manga-auto-downloader">◈ Manga Auto Downloader</a>
       </h3>
       <p>
-        A personal finance app concept built around the idea of
-        keeping everyday financial management close at hand.
+        An automated manga downloader that fetches chapters and organizes
+        them into CBZ files for offline reading and personal library management.
       </p>
-      <sub>JavaScript · React Native</sub>
+      <sub>Python · Automation · Web Scraping · CBZ</sub>
     </td>
   </tr>
 </table>
