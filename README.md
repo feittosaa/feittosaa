@@ -1,46 +1,43 @@
 <div align="center">
+
+# Lucas Feitosa
+
+**Developer · Data · Design**
+
+Building tools, exploring ideas, and making things my own.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/feittosaa/">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:09090f,50:171126,100:433078&height=200&section=header&text=Lucas%20Feitosa&fontSize=54&fontColor=f5f3ff&fontAlignY=36&desc=developer%20%2F%20designer%20%2F%20data%20engineer&descAlignY=56&descColor=c4b5fd"
-    width="100%"
-    alt="Lucas Feitosa — Developer / Designer / Data Engineer"
+    src="https://img.shields.io/badge/LinkedIn-161320?style=flat-square&logo=linkedin&logoColor=A78BFA"
+    alt="LinkedIn"
   />
-
-  <br/>
-
+</a>
+<a href="mailto:lucas.feitosa2004@gmail.com">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1800&color=A78BFA&center=true&vCenter=true&width=600&lines=code+%3E+ideas+%3E+something+useful;React+%2F+JavaScript+%2F+Python;data%2C+automation+%26+problem+solving;building+my+own+little+ecosystem"
-    alt="Code, ideas, software development, data and automation"
+    src="https://img.shields.io/badge/Email-161320?style=flat-square&logo=gmail&logoColor=A78BFA"
+    alt="Email"
   />
+</a>
+<a href="https://github.com/feittosaa">
+  <img
+    src="https://img.shields.io/badge/GitHub-161320?style=flat-square&logo=github&logoColor=A78BFA"
+    alt="GitHub"
+  />
+</a>
 
-  <br/><br/>
-
-  <a href="https://www.linkedin.com/in/feittosaa/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0B0B12?style=flat-square&logo=linkedin&logoColor=0A66C2"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="mailto:lucas.feitosa2004@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-0B0B12?style=flat-square&logo=gmail&logoColor=EA4335"
-      alt="Email"
-    />
-  </a>
-  <a href="https://github.com/feittosaa">
-    <img
-      src="https://img.shields.io/badge/GitHub-0B0B12?style=flat-square&logo=github&logoColor=F5F3FF"
-      alt="GitHub"
-    />
-  </a>
 </div>
 
-  <br/><br/>
+<br/>
 
-  <code>building</code> &nbsp;
-  <code>experimenting</code> &nbsp;
-  <code>automating</code>
+```text
+lucas@linux:~$ cat interests.txt
 
-</div>
+  software development  ·  data & automation
+  linux & customization ·  local-first tools
+  games & creative projects
+```
 
 ---
 
@@ -72,47 +69,47 @@ automation, and practical everyday tools**.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/feittosaa/ayla">✦ Ayla</a>
-      </h3>
+      <h3><a href="https://github.com/feittosaa/ayla">✦ Ayla</a></h3>
       <p>
-        A personal, offline-first software ecosystem bringing together
-        tools, data, integrations, automation, and AI — while keeping
-        its core useful even without an AI connection.
+        A personal, offline-first ecosystem that brings together data,
+        tools, automation, integrations, and AI in one place.
       </p>
       <sub>Python · Local-first · AI · Automation</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/feittosaa/close-combat">⚔ Close Combat</a>
-      </h3>
+      <h3><a href="https://github.com/feittosaa/close-combat">⚔ Close Combat</a></h3>
       <p>
-        A fighting-game project that uses AI as a way to explore
-        its fundamentals, while practicing software development
-        workflows and CI/CD.
+        A fighting game project built to explore AI fundamentals while
+        practicing software development workflows and CI/CD.
       </p>
-      <sub>TypeScript · AI fundamentals · CI/CD</sub>
+      <sub>Fighting Game · AI Fundamentals · CI/CD</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/feittosaa/grimoire">▣ Grimoire</a>
-      </h3>
+      <h3><a href="https://github.com/feittosaa/moneta">◉ Moneta</a></h3>
       <p>
-        An open-source, modular Virtual Tabletop (VTT) for tabletop RPGs,
-        featuring customizable game systems, house rules, Obsidian integration,
-        and multiplayer support through Discord or local networks.
+        A personal finance application for bringing accounts and transactions
+        together, organizing spending, and exploring financial reports.
+      </p>
+      <sub>Personal Finance · Open Finance · Dashboards · Automation</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/feittosaa/grimoire">▣ Grimoire</a></h3>
+      <p>
+        An open-source, modular virtual tabletop for RPGs, with customizable
+        game systems and house rules, Obsidian integration, and multiplayer
+        through Discord or local networks.
       </p>
       <sub>Virtual Tabletop · RPG · Open Source · Modular</sub>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/feittosaa/manga-auto-downloader">◈ Manga Auto Downloader</a>
-      </h3>
+      <h3><a href="https://github.com/feittosaa/manga-auto-downloader">◈ Manga Auto Downloader</a></h3>
       <p>
         An automated manga downloader that fetches chapters and organizes
-        them into CBZ files for offline reading and personal library management.
+        them into CBZ files for offline reading and library management.
       </p>
       <sub>Python · Automation · Web Scraping · CBZ</sub>
     </td>
@@ -123,38 +120,38 @@ automation, and practical everyday tools**.
 
 <div align="center">
 
-  <h3>01 / Development</h3>
+<h3>01 / Development</h3>
 
-  <img height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/>
-  <img height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
-  <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript"/>
-  <img height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <h3>02 / Data & Databases</h3>
+<h3>02 / Data &amp; Databases</h3>
 
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-  <img height="28" width="36" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/SVG/Power-BI.svg" alt="Power BI"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+<img height="32" width="42" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/refs/heads/main/SVG/Power-BI.svg" alt="Power BI"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <h3>03 / Design & Tools</h3>
+<h3>03 / Design &amp; Tools</h3>
 
-  <img height="28" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
-  <img height="28" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
+<img height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <sub>
-    <b>Also into</b><br/>
-    Linux &nbsp;·&nbsp; Hyprland &nbsp;·&nbsp; Git &nbsp;·&nbsp;
-    API development &nbsp;·&nbsp; Automation
-  </sub>
+<sub>
+  <b>Also into</b><br/>
+  Linux &nbsp;·&nbsp; Hyprland &nbsp;·&nbsp; Git &nbsp;·&nbsp;
+  API development &nbsp;·&nbsp; Automation
+</sub>
 
 </div>
 
@@ -162,14 +159,15 @@ automation, and practical everyday tools**.
 
 <div align="center">
 
-  <sub>
-    <i>Less busywork, more building.</i>
-  </sub>
+<sub><i>Less busywork, more building.</i></sub>
 
-  <br/><br/>
+<br/><br/>
 
-  <a href="https://github.com/feittosaa">
-    <img src="https://img.shields.io/badge/~/feittosaa-0B0B12?style=flat-square&logo=github&logoColor=A78BFA" alt="github.com/feittosaa"/>
-  </a>
+<a href="https://github.com/feittosaa">
+  <img
+    src="https://img.shields.io/badge/~/feittosaa-161320?style=flat-square&logo=github&logoColor=A78BFA"
+    alt="github.com/feittosaa"
+  />
+</a>
 
 </div>
